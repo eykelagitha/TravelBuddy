@@ -1,6 +1,6 @@
 # Travel Buddy
 
-Multi-screen React Native app dengan React Navigation — dibuat untuk Pertemuan 9 Praktikum Mobile Programming.
+Multi-screen React Native app dengan React Navigation dibuat untuk Pertemuan 9 Praktikum Pemrograman Mobile (React Native).
 
 ---
 
