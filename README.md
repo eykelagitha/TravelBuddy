@@ -88,7 +88,7 @@ TravelBuddy/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/[USERNAME]/TravelBuddy.git
+git clone https://github.com/eykelagitha/TravelBuddy.git
 cd TravelBuddy
 
 # 2. Install dependencies
